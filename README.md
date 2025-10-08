@@ -2,6 +2,18 @@
 
 A powerful Streamlit application that automatically generates business insights, creates visualizations, builds PowerPoint presentations, and provides an AI chatbot for data exploration.
 
+
+<iframe
+  width="720"
+  height="600"
+  src="https://app.screencastify.com/watch/VoRU8AKzn0AMEqVEiRXX/embed"
+  title="KPI Insights Dashboard - Screencastify - September 26, 2025 10:53 AM"
+  frameborder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+  referrerpolicy="strict-origin-when-cross-origin"
+  allowfullscreen
+></iframe>
+
 ## 🎯 Features
 
 ✅ **CSV Upload** - Upload your own datasets  
